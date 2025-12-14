@@ -1,13 +1,17 @@
 ## Cloud Computing Final Project
 
-CSV file uncompressed is around 800mb
+Dataset:
+https://drive.google.com/file/d/1YVm9NwJNGH-4PlWmB53lRdpOXqOXOGcN/view?usp=sharing
 
-This project uses the Google Cluster Trace 2019 dataset to analyze how requested resources compare to actual CPU and memory usage and to explore whether machine learning can predict real resource demand more accurately than user guesses.
+zip file size: 200mb <br>
+Uncompressed: 4gb
+<br>
+Video: https://drive.google.com/file/d/1RUlf4Cxp_8FqwlVIPA-LYey4AZBJDK9U/view?usp=sharing
 
 ### Exploratory Data Analysis (EDA)
 
-[EDA Notebook](https://github.com/chuaqindi/cloud-computing-project/tree/main/eda)
+[EDA Notebook](https://github.com/chuaqindi/cloud-computing-project/blob/main/EDA.ipynb)
 
-### Feature Engineering
+### Feature Engineering + Model
 
-[Feature Engineering Notebook](https://github.com/chuaqindi/cloud-computing-project/blob/main/feature_engineering.py)
+[Feature Engineering Notebook](https://github.com/chuaqindi/cloud-computing-project/blob/main/Model.ipynb)
